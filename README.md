@@ -1,5 +1,5 @@
 # nlp_assignment_3
-Files and code for NLP assignment 3
+Files and code for NLP assignment 3. Pipeline in Google Colab notebook due to lack of power on student laptop. Data analysis in R.
 
 ## Python dependencies
 The code requires the following Python libraries:
