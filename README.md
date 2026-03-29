@@ -10,7 +10,7 @@ The code requires the following Python libraries:
 
 | Library | Purpose |
 |----------|----------|
-| pandas   | Creating and handling dataset     |
+| pandas   | Creating and handling dataframe     |
 | transformers   | Handling LLMs     |
 | torch   | Disabling gradient calculation     |
 | google.colab   | Saving output files     |
